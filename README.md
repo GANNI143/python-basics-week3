@@ -1,6 +1,11 @@
 # python-basics-week3
 Build a Contact Manager using Python
 # Contact Manager (Week 3)
+This project demonstrates:
+- File handling
+- JSON data storage
+- Functions
+- Basic testing
 
 This is a simple Contact Manager built using Python.
 
